@@ -1,7 +1,7 @@
 {
-    "slack_token": "<kms_encrypted_slack_token>",
+    "slack_token": "AQECAHiDt3Udn4+CCKT2896xa4WxSbbCYOIrWSxIifQrZxY1ogAAAHYwdAYJKoZIhvcNAQcGoGcwZQIBADBgBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDENgu7byPqWqOXkULQIBEIAz068e9a+dMcRdaBGGgSrQF8Y63cODCJkIBTjC+BaOjwp/W3u0sGMOjz733OZu2z+hqRUk",
     "slack_command": "/aws-network",
-    "kms_region": "<aws_region>",
-    "kms_key_alias": "<key_alias>",
-    "sns_arn": "arn:aws:sns:<region>:<account_id>:<sns_topic_name>"
+    "kms_region": "Us-East-1",
+    "kms_key_alias": " alias/AwsNetwork",
+    "sns_arn": "arn:aws:sns:us-east-1:773500838498:aws-network-helper"
 }
